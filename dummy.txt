@@ -1,1 +1,1 @@
-
+this progrm is initiated with git pull and push commands .
